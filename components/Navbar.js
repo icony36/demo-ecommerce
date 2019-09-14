@@ -133,9 +133,7 @@ function Navbar() {
                             className={classes.menuButton}
                             color="inherit"
                         >
-                            <Typography variant="h6">
-                                TWO HALVES SUCRE
-                            </Typography>
+                            <Typography variant="h6">Demo Ecommerce</Typography>
                         </IconButton>
                     </Link>
 
