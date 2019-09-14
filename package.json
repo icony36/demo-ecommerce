@@ -1,0 +1,32 @@
+{
+    "name": "two-halves-sucre",
+    "version": "1.0.0",
+    "description": "two-halves-sucre source code",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node server.js",
+        "build": "next build",
+        "start": "NODE_ENV=production node server.js"
+    },
+    "author": "IT",
+    "license": "ISC",
+    "dependencies": {
+        "@material-ui/core": "^4.3.1",
+        "@material-ui/icons": "^4.2.1",
+        "axios": "^0.19.0",
+        "body-parser": "^1.19.0",
+        "dotenv": "^8.1.0",
+        "express": "^4.17.1",
+        "googleapis": "^42.0.0",
+        "lorem-ipsum": "^2.0.3",
+        "next": "^9.0.3",
+        "nodemailer": "^6.3.0",
+        "payment": "^2.3.0",
+        "react": "^16.8.6",
+        "react-country-region-selector": "^1.4.3",
+        "react-custom-scrollbars": "^4.2.1",
+        "react-dom": "^16.8.6",
+        "react-socks": "^2.0.2",
+        "uuid": "^3.3.2"
+    }
+}
