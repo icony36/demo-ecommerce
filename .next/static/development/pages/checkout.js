@@ -60646,7 +60646,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!***********************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcheckout&absolutePagePath=%2FUsers%2Fiantan%2FDesktop%2FTwo-Halves-Sucre%2Fsource-code%2Fpages%2Fcheckout.js ***!
   \***********************************************************************************************************************************************************/
@@ -60669,5 +60669,5 @@ module.exports = dll_829b10deddf10e1653a8;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=checkout.js.map

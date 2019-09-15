@@ -478,7 +478,7 @@ function Navbar() {
     color: "inherit"
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_6__["default"], {
     variant: "h6"
-  }, "TWO HALVES SUCRE"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+  }, "Demo Ecommerce"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     className: classes.sectionDesktopLinks
   }, links.map(function (el) {
     return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_18___default.a, {

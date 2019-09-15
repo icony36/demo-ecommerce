@@ -75,6 +75,6 @@ app.prepare().then(() => {
 
     server.listen(3003, err => {
         if (err) throw err;
-        console.log("Two Halves Sucre now serving on localhost:3003");
+        console.log("Demo Ecommerce Website is now serving on localhost:3003");
     });
 });
