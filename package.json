@@ -19,7 +19,7 @@
         "express": "^4.17.1",
         "googleapis": "^42.0.0",
         "lorem-ipsum": "^2.0.3",
-        "next": "^9.0.3",
+        "next": "^9.3.2",
         "nodemailer": "^6.3.0",
         "payment": "^2.3.0",
         "react": "^16.8.6",
